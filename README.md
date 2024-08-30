@@ -50,10 +50,7 @@ To run Lumina, ensure you have the following:
 ![Screenshot 2](demo/2.jpg)
 ![Screenshot 3](demo/3.jpg)
 
-<video width="640" height="360" controls>
-  <source src="demo/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the demo](https://img.youtube.com/vi/uT3uT6bCaLs/hqdefault.jpg)](https://www.youtube.com/watch?v=uT3uT6bCaLs)
 
 ## 📂 Project Structure
 
