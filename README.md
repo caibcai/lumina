@@ -50,7 +50,7 @@ To run Lumina, ensure you have the following:
 ![Screenshot 2](demo/2.jpg)
 ![Screenshot 3](demo/3.jpg)
 
-[![Watch the demo](https://img.youtube.com/vi/uT3uT6bCaLs/hqdefault.jpg)](https://www.youtube.com/watch?v=uT3uT6bCaLs)
+[![Lumina - Game Play Demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1725021138/video_to_markdown/images/youtube--uT3uT6bCaLs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=uT3uT6bCaLs "Lumina - Game Play Demo")
 
 ## 📂 Project Structure
 
