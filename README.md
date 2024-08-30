@@ -44,9 +44,16 @@ To run Lumina, ensure you have the following:
 - **Solve Puzzles**: Rotate and move mirrors to direct the light beam to the portal.
 - **Progress Through Levels**: Complete each level to unlock the next one.
 
-## 📸 Screenshots
+## 📸 Screenshots and Video
 
+![Screenshot 1](demo/1.jpg)
+![Screenshot 2](demo/2.jpg)
+![Screenshot 3](demo/3.jpg)
 
+<video width="640" height="360" controls>
+  <source src="demo/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 📂 Project Structure
 
